@@ -24,12 +24,10 @@ int main()
 												else
 												{
 																temp_str.erase(i, 1);
-												}
-												
-												
-												
+												}										
 								}
-								if(temp_str == reverse_str)
+                  
+   if(temp_str == reverse_str)
 								cout << value << ":   " << "is a palindrome.\n";
 								else
 								{
